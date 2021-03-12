@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating web applications
 - 🌱 I’m currently learning ReactJS, NodeJS
 - 💞️ I’m looking to collaborate on MERN Projects
-- 📫 You canb reach me on mayanksingh0068@gmail.com
+- 📫 You can reach me at mayanksingh0068@gmail.com
 
 <!---
 mayanksingh2904/mayanksingh2904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
