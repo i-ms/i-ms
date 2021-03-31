@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayanksingh2904
 - 👀 I’m interested in creating web applications
-- 🌱 I’m currently learning ReactJS, NodeJS
+- 🌱 I’m currently working on ReactJS, NodeJS projects
 - 💞️ I’m looking to collaborate on MERN Projects
 - 📫 You can reach me at mayanksingh0068@gmail.com
 
