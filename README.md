@@ -2,7 +2,7 @@
 ## Hi, I’m  Mayank Singh 
 - 🌱 I’m currently working on GO and Blockchain projects
 - 💞️ I’m looking to collaborate on intresting projects and hackathons
-- 📫 You can reach me at mayank@zinkle.in
+- 📫 You can reach me at mayanksingh0068@gmail.com
 
  
 I'm passionate about GO, Javascript, Java, React, Flutter, NodeJS and also taking a look at Blockchain
